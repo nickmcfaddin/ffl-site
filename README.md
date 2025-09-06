@@ -1,4 +1,7 @@
-## Objective
+# ffl site
+Eventual goal is to create a fantasy football site to display the machine learning predicted outcomes for the upcoming NFL season
+
+## Iteration 1 Objective
 
 Figure out what statistics matter the most in a runningbacks fantasy football production.
 
