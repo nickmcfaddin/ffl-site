@@ -33,7 +33,7 @@ for scoring_name, scoring_col in scoring_types.items():
             correlations[stat] = corr
 
     # Get our top 10
-    top_stats = sorted(correlations, key=correlations.get, reverse=True)[:10]
+    top_stats = sorted(correlations, key = correlations.get, reverse = True)[:10]
     print(f"\nTop 10 correlated stats for {scoring_name} scoring format:")
     for stat in top_stats:
         print(f"{stat}: {correlations[stat]:.3f}")
