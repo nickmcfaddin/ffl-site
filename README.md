@@ -1,6 +1,6 @@
 # ffl-site
 
-## Iteration 1 Objective
+## Version 1 Objective
 
 Figure out what statistics matter the most in a runningbacks fantasy football production.
 
